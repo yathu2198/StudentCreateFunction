@@ -1,1 +1,1 @@
-<h1>Gallery</h1>
+<h1>This is Gallery Page</h1>
